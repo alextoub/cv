@@ -1,5 +1,5 @@
 # CV
 
-CV de Alexandre Toubiana
+CV of Alexandre Toubiana
 
-![IMG](/cv-latex/cv.png)
+![IMG](/cv-sketch/cv.png)
